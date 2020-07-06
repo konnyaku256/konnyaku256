@@ -1,16 +1,22 @@
-### Hi there 👋
+# konnyaku256
+
+konnyaku, the inedible one
 
 <!--
 **konnyaku256/konnyaku256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Features
+- 🎓 NIT, SC (B4)
+- 👨🏻‍💻 Software Engineer / Mainly Server-side
+- ✨ TypeScript/C#
+- 😍 Anime / VTuber
+- 🏡 Mie, Japan
+
+## Links
+- [Portfolio site](https://konnyaku256.dev)
+- [GitHub](https://github.com/konnyaku256)
+- [Twitter](https://twitter.com/konnyaku256)
+- [Blog](https://blog.konnyaku256.dev)
+- [Medium](https://medium.com/@konnyaku256)
+- [Speaker Deck](https://speakerdeck.com/konnyaku256)
