@@ -9,8 +9,8 @@ konnyaku, the inedible one
 ## Features
 - 🎓 NIT, SC (B4)
 - 👨🏻‍💻 Software Engineer / Mainly Server-side
-- ✨ TypeScript/C#
-- 😍 Anime / VTuber
+- ✨ TypeScript/C#
+- 😍 Anime / VTuber
 - 🏡 Mie, Japan
 
 ## Links
