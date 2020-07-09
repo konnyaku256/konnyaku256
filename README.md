@@ -12,6 +12,7 @@ konnyaku, the inedible one
 - ✨ TypeScript/C#
 - 😍 Anime / VTuber
 - 🏡 Mie, Japan
+- :octocat: GitHub is my life!
 
 ## Links
 - [Portfolio site](https://konnyaku256.dev)
