@@ -23,4 +23,4 @@ konnyaku, the inedible one
 - [Speaker Deck](https://speakerdeck.com/konnyaku256)
 
 
-[![konnyaku256's github stats](https://github-readme-stats.vercel.app/api?username=konnyaku256)](https://github.com/anuraghazra/github-readme-stats)
+[![konnyaku256's github stats](https://github-readme-stats.vercel.app/api?username=konnyaku256&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
