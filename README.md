@@ -21,3 +21,6 @@ konnyaku, the inedible one
 - [Blog](https://blog.konnyaku256.dev)
 - [Medium](https://medium.com/@konnyaku256)
 - [Speaker Deck](https://speakerdeck.com/konnyaku256)
+
+
+[![konnyaku256's github stats](https://github-readme-stats.vercel.app/api?username=konnyaku256)](https://github.com/anuraghazra/github-readme-stats)
