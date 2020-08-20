@@ -9,7 +9,7 @@ konnyaku, the inedible one
 ## Features
 - 🎓 NIT, SC (B4)
 - 👨🏻‍💻 Software Engineer / Mainly Server-side
-- ✨ TypeScript/C#
+- ✨ TypeScript / C#
 - 😍 Anime / VTuber
 - 🏡 Mie, Japan
 - :octocat: GitHub is my life!
