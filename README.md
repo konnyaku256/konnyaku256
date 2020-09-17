@@ -8,22 +8,22 @@ konnyaku, the inedible one
 
 <p align="left">
   <a href="https://konnyaku256.dev">
-    <img height="20" src="https://img.shields.io/badge/-konnyaku256.dev-eeeeee?style=flat-square&logo=Google-Chrome&label=Portfolio&labelColor=34495e" alt="Portfolio Badge">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256.dev-eeeeee?style=flat-square&logo=Google-Chrome&label=Portfolio&labelColor=34495e" alt="Portfolio Badge">
   </a>
   <a href="https://github.com/konnyaku256">
-    <img height="20" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=GitHub&label=GitHub&labelColor=24292e" alt="GitHub Badge">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=GitHub&label=GitHub&labelColor=24292e" alt="GitHub Badge">
   </a>
   <a href="http://twitter.com/konnyaku256">
-    <img height="20" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Twitter&logoColor=ffffff&label=Twitter&labelColor=1DA1F2" alt="Twitter Badge">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Twitter&logoColor=ffffff&label=Twitter&labelColor=1DA1F2" alt="Twitter Badge">
   </a>
   <a href="https://blog.konnyaku256.dev">
-    <img height="20" src="https://img.shields.io/badge/-blog.konnyaku256.dev-eeeeee?style=flat-square&logo=RSS&label=Blog&labelColor=34495e" alt="Blog Badge">
+    <img height="24" src="https://img.shields.io/badge/-blog.konnyaku256.dev-eeeeee?style=flat-square&logo=RSS&label=Blog&labelColor=34495e" alt="Blog Badge">
   </a>
   <a href="https://medium.com/@konnyaku256">
-    <img height="20" src="https://img.shields.io/badge/-@konnyaku256-eeeeee?style=flat-square&logo=Medium&label=Medium&labelColor=03a87c" alt="Medium Badge">
+    <img height="24" src="https://img.shields.io/badge/-@konnyaku256-eeeeee?style=flat-square&logo=Medium&label=Medium&labelColor=03a87c" alt="Medium Badge">
   </a>
   <a href="https://speakerdeck.com/konnyaku256">
-    <img height="20" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Speaker-Deck&label=SpeakerDeck&labelColor=009287" alt="SpeakerDeck Badge">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Speaker-Deck&label=SpeakerDeck&labelColor=009287" alt="SpeakerDeck Badge">
   </a>
 </p>
 
