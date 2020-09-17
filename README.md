@@ -14,7 +14,7 @@ konnyaku, the inedible one
     <img height="20" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=GitHub&label=GitHub&labelColor=24292e" alt="GitHub Badge">
   </a>
   <a href="http://twitter.com/konnyaku256">
-    <img height="20" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Twitter&label=Twitter&labelColor=333" alt="Twitter Badge">
+    <img height="20" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Twitter&logoColor=ffffff&label=Twitter&labelColor=1DA1F2" alt="Twitter Badge">
   </a>
   <a href="https://blog.konnyaku256.dev">
     <img height="20" src="https://img.shields.io/badge/-blog.konnyaku256.dev-eeeeee?style=flat-square&logo=RSS&label=Blog&labelColor=34495e" alt="Blog Badge">
