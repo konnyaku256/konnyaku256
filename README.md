@@ -8,7 +8,7 @@ konnyaku, the inedible one
 
 <p align="left">
   <a href="https://konnyaku256.dev">
-    <img height="24" src="https://img.shields.io/badge/-konnyaku256.dev-eeeeee?style=flat-square&logo=Google-Chrome&label=Portfolio&labelColor=34495e" alt="Portfolio Badge">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256.dev-eeeeee?style=flat-square&logo=Google-Chrome&&logoColor=ffffff&label=Portfolio&labelColor=34495e" alt="Portfolio Badge">
   </a>
   <a href="https://github.com/konnyaku256">
     <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=GitHub&label=GitHub&labelColor=24292e" alt="GitHub Badge">
