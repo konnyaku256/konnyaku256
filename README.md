@@ -25,6 +25,9 @@ konnyaku, the inedible one
   <a href="https://speakerdeck.com/konnyaku256">
     <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Speaker-Deck&label=SpeakerDeck&labelColor=009287" alt="SpeakerDeck Badge">
   </a>
+  <a href="https://zenn.dev/konnyaku256">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&label=Zenn&labelColor=3ea8ff" alt="Zenn Badge">
+  </a>
 </p>
 
 ## Features
