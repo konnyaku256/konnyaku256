@@ -28,6 +28,9 @@ konnyaku, the inedible one
   <a href="https://zenn.dev/konnyaku256">
     <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Zenn&label=Zenn" alt="Zenn Badge">
   </a>
+  <a href="">
+    <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&logo=Joinclubhouse&label=Clubhouse&labelColor=4f4f4f" alt="Clubhouse Badge">
+  </a>
   <a href="https://annict.jp/@konnyaku256/watched">
     <img height="24" src="https://img.shields.io/badge/-konnyaku256-eeeeee?style=flat-square&label=Annict&labelColor=f85b73" alt="Annict Badge">
   </a>
