@@ -39,7 +39,7 @@ konnyaku, the inedible one
 
 - 👨🏻‍💻 Software Engineer / Mainly Server-side
 - ✨ TypeScript / C#
-- 😍 Anime / VTuber
+- 😍 Anime / Game / VTuber / Onsen / Cooking
 - 🏡 Tokyo, Japan
 - 🎓 grad. NIT, SC (B4)
 - :octocat: GitHub is my life!
