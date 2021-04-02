@@ -37,11 +37,11 @@ konnyaku, the inedible one
 
 <img align="right" alt="konnyaku256's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=konnyaku256&count_private=true&show_icons=true&bg_color=34495e&title_color=fff&text_color=fff&icon_color=fff">
 
-- 🎓 NIT, SC (B4)
 - 👨🏻‍💻 Software Engineer / Mainly Server-side
 - ✨ TypeScript / C#
 - 😍 Anime / VTuber
 - 🏡 Mie, Japan
+- 🎓 grad. NIT, SC (B4)
 - :octocat: GitHub is my life!
 
 ## Skills
