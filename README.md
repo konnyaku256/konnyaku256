@@ -44,7 +44,7 @@ konnyaku, the inedible one
 - ✨ TypeScript / C#
 - 😍 Anime / Game / VTuber / Onsen / Cooking
 - 🏡 Tokyo, Japan
-- 🎓 grad. NIT, SC (B4)
+- 🎓 grad. NIT, SC
 - :octocat: GitHub is my life!
 
 ## Skills
