@@ -38,14 +38,19 @@ konnyaku, the inedible one
 
 ## Features
 
-<img align="right" alt="konnyaku256's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=konnyaku256&count_private=true&show_icons=true&bg_color=34495e&title_color=fff&text_color=fff&icon_color=fff">
-
 - 👨🏻‍💻 Software Engineer / Mainly Server-side
 - ✨ Golang / Hasura / Flutter / TypeScript
 - 😍 Anime / Game / Onsen / Cooking
 - 🏡 Tokyo, Japan
 - 🎓 grad. NIT, SC
 - :octocat: GitHub is my life!
+
+## Stats
+
+<img alt="konnyaku256's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=konnyaku256&count_private=true&show_icons=true&bg_color=34495e&title_color=fff&text_color=fff&icon_color=fff">
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ## Skills
 <p align="left">
