@@ -51,7 +51,7 @@ konnyaku, the inedible one
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/konnyaku256" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.39&b=3.48&i=3.4&b1=%2334495e&b2=%2334495e&i1=%23243342&i2=%23486684&l=ja" width="400" ></a>  
-Last Updated on 12/17/2022, 9:04:18 AM UTC
+Last Updated on 12/18/2022, 12:59:23 AM
 <!--END_SECTION:lapras-card-->
 
 ## Skills
