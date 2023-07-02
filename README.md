@@ -54,8 +54,8 @@ konnyaku, the inedible one
 <img alt="konnyaku256's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=konnyaku256&count_private=true&show_icons=true&bg_color=34495e&title_color=fff&text_color=fff&icon_color=fff">
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/konnyaku256" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.48&i=3.4&b1=%2334495e&b2=%2334495e&i1=%23243342&i2=%23486684&l=ja" width="400" ></a>  
-Last Updated on 6/25/2023, 1:19:02 AM
+<a href="https://lapras.com/public/konnyaku256" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.48&i=3.41&b1=%2334495e&b2=%2334495e&i1=%23243342&i2=%23486684&l=ja" width="400" ></a>  
+Last Updated on 7/2/2023, 1:16:13 AM
 <!--END_SECTION:lapras-card-->
 
 ## Skills
