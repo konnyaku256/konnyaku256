@@ -55,7 +55,7 @@ konnyaku, the inedible one
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/konnyaku256" target="_blank" rel="noopener noreferrer"><img alt="konnyaku256のLAPRASでのスコアは次の通りです: エンジニアリング: 3.67 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.47 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.67&b=3.48&i=3.47&b1=%2334495e&b2=%2334495e&i1=%23243342&i2=%23486684&l=ja" width="400" ></a>  
-Last Updated on 3/30/2025, 1:17:58 AM</p>
+Last Updated on 4/6/2025, 1:17:17 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Skills
